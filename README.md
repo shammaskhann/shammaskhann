@@ -27,7 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shammaskhann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
 ###
 
 <div align="left">
@@ -44,6 +43,5 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
-
 
 ###
