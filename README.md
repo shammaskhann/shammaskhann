@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shammas Khan</h1>
 <h3 align="center">A passionate Full Stack Mobile App developer (Flutter + NodeJS)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaammaskhann&label=Profile%20views&color=0e75b6&style=flat" alt="shaammaskhann" /> </p>
 
 - 📫 How to reach me **shammas.khan90321@gmail.com**
 
