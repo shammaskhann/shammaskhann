@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shammas Khan</h1>
-<h3 align="center">A passionate Full Stack Mobile App developer (Flutter + NodeJS)</h3>
+<h3 align="center">A passionate Full Stack Mobile App developer (Flutter + ExpressJS)</h3>
 
 
 - 📫 How to reach me **shammas.khan90321@gmail.com**
