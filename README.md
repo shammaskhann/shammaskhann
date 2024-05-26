@@ -33,18 +33,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
-###
+
 # 📊 GitHub Stats:
 <br clear="both">
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=shammaskhann&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shammaskhann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-###
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47eqe4ilha9wjwt95gr7mmc6r4b51h3ivsica63byu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
-###
 ---
 [![](https://visitcount.itsvg.in/api?id=shammaskhann&icon=7&color=4)](https://visitcount.itsvg.in)
 
