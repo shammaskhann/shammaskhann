@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shammas Khan</h1>
-<h3 align="center">A passionate Flutter Mobile App developer </h3>
+<h3 align="center">A Mobile App Developer</h3>
 
+- 🔭 **Experience**  
+  - **Mobile App Developer** at YAM Group of Companies (On-Site)  
+    *June 2024 - November 2024*  
+  - **Mobile App Developer** at ISkyCreative UAE (Remote)  
+    *November 2024 - Present*  
 
-- 📫 How to reach me **shammas.khan90321@gmail.com**
-<p align="left">- 🔭 I’m working as Mobile App Developer, focusing on Flutter.<br>- 📚 I'm currently learning SpringBoot to broaden my backend development skills and to build robust and scalable web applications.<br>- ⚡ In my free time,I enjoy contributing to open-source projects, exploring new technologies, and refining my problem-solving skills through coding challenges.</p>
+- 📫 How to reach me: **shammas.khan90321@gmail.com**
+
+<p align="left">
+- 🌱 I’m currently learning Spring Boot to broaden my backend development skills and to build robust and scalable web applications.<br>  
+- ⚡ In my free time, I enjoy contributing to open-source projects, exploring new technologies, and refining my problem-solving skills through coding challenges.  
+</p>
+
 
 
 ## 🌐 Socials:
