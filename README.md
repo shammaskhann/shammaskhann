@@ -5,7 +5,7 @@
   - **Mobile App Developer** at YAM Group of Companies (On-Site)  
     *June 2024 - November 2024*  
   - **Mobile App Developer** at ISkyCreative UAE (Remote)  
-    *November 2024 - Present*  
+    *November 2024 - Febuary 2025*  
 
 - 📫 How to reach me: **shammas.khan90321@gmail.com**
 
