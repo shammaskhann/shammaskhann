@@ -14,7 +14,7 @@
 - ⚡ In my free time, I enjoy contributing to open-source projects, exploring new technologies, and refining my problem-solving skills through coding challenges.  
 </p>
 
-
+ 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shammaskhann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shamas_khn01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shammaskhan) 
