@@ -4,7 +4,7 @@
 - 🔭 **Experience**  
   - **Mobile App Developer Intern** at YAM Group of Companies (On-Site)  
     *September 2024 - November 2024*  
-  - **Mobile App Developer** at ISkyCreative UAE (Remote)  
+  - **Mobile App Developer** at ISkyCreative (iSky Information Technology) UAE (Remote)  
     *November 2024 - Febuary 2025*  
 
 - 📫 How to reach me: **shammas.khan90321@gmail.com**
