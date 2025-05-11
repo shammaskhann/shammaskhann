@@ -2,7 +2,7 @@
 <h3 align="center">A Mobile App Developer</h3>
 
 - 🔭 **Experience**  
-  - **Mobile App Developer** at YAM Group of Companies (On-Site)  
+  - **Mobile App Developer Intern** at YAM Group of Companies (On-Site)  
     *September 2024 - November 2024*  
   - **Mobile App Developer** at ISkyCreative (iSky Information Technology) UAE (Remote)  
     *November 2024 - Febuary 2025*  
