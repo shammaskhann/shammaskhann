@@ -4,8 +4,12 @@
 - 🔭 **Experience**  
   - **Mobile App Developer Intern** at YAM Group of Companies (On-Site)  
     *September 2024 - November 2024*  
-  - **Mobile App Developer** at ISkyCreative (iSky Information Technology) UAE (Remote)  
-    *November 2024 - Febuary 2025*  
+  - **Information Technology Intern** at Archroma Pakistan Limited (On-site, Karachi)  
+  *August 2025 – September 2025*  
+  - Assisted in integrating **FBR e-Invoicing functionality** into the company’s IBM AS/400–based ERP system using **.NET (C#)** and **PRAL-provided APIs**.  
+  - Developed and tested the **e-invoicing module** in a sandbox environment, validating all FBR-provided use cases and ensuring successful API communication and compliance.  
+  - Integrated **SAP Crystal Reports** into the C# application for **automated e-invoice generation**, including **FBR QR code** embedding and dynamic report generation.  
+  - Collaborated with senior developers to deploy and document the new module, improving invoice processing efficiency and digital tax reporting accuracy.
 
 - 📫 How to reach me: **shammas.khan90321@gmail.com**
 
