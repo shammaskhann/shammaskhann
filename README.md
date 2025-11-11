@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shammas Khan</h1>
 <h3 align="center">A Mobile App Developer</h3>
 
-- 🔭 **Experience**  
+- 🔭 **Experience**
+  - **Information Technology Intern** at Archroma Pakistan Limited (On-site, Karachi)  
+    *August 2025 – September 2025*
+  - **Mobile App Developer** at iSky Information Technology (Remote, UAE)  
+    *November 2024 – February 2025* 
   - **Mobile App Developer Intern** at YAM Group of Companies (On-Site)  
     *September 2024 - November 2024*  
-  - **Information Technology Intern** at Archroma Pakistan Limited (On-site, Karachi)  
-  *August 2025 – September 2025*  
+  
   
 
 - 📫 How to reach me: **shammas.khan90321@gmail.com**
