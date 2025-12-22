@@ -6,8 +6,6 @@
     *August 2025 – September 2025*
   - **Mobile App Developer** at iSky Information Technology (Remote, UAE)  
     *November 2024 – February 2025* 
-  - **Mobile App Developer Intern** at YAM Group of Companies (On-Site)  
-    *September 2024 - November 2024*  
   
   
 
