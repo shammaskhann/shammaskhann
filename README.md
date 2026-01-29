@@ -2,6 +2,8 @@
 <h3 align="center">A Mobile App Developer</h3>
 
 - 🔭 **Experience**
+  - **App Developer** at Outsource origin (On-site, Karachi)  
+    *February 2025 – Present*
   - **Information Technology Intern** at Archroma Pakistan Limited (On-site, Karachi)  
     *August 2025 – September 2025*
   - **Mobile App Developer** at iSky Information Technology (Remote, UAE)  
