@@ -3,11 +3,12 @@
 
 - 🔭 **Experience**
   - **App Developer** at Outsource origin (On-site, Karachi)  
-    *February 2025 – Present*
+    *February 2026 – Present*
   - **Information Technology Intern** at Archroma Pakistan Limited (On-site, Karachi)  
     *August 2025 – September 2025*
   - **Mobile App Developer** at iSky Information Technology (Remote, UAE)  
-    *November 2024 – February 2025* 
+    *November 2024 – February 2025*
+  
   
   
 
