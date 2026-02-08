@@ -7,7 +7,7 @@
   - **Mobile App Developer** at iSky Information Technology (Remote, UAE)  
     *November 2024 – February 2025*
   
-  
+  - 📫 Resume: https://drive.google.com/file/d/1wfuQlVw6724KGtAjnPRq3J8_k7e3hvJ9/view?usp=sharing
   
 
 - 📫 How to reach me: **shammas.khan90321@gmail.com**
