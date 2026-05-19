@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shammas Khan</h1>
-<h3 align="center">A Flutter Developer</h3>
+<h3 align="center">A Mobile App Developer</h3>
 
 - 🔭 **Experience**
   - **Information Technology Intern** at Archroma Pakistan Limited (On-site, Karachi)  
     *August 2025 – September 2025*
   - **Mobile App Developer** at iSky Information Technology (Remote, UAE)  
-    *November 2024 – February 2025*
-  
-  - 📫 Resume: https://drive.google.com/file/d/1wfuQlVw6724KGtAjnPRq3J8_k7e3hvJ9/view?usp=sharing
+    *November 2024 – March 2025*
   
 
 - 📫 How to reach me: **shammas.khan90321@gmail.com**
