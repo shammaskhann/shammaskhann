@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:shammaskhann@gmail.com">
+  <a href="mailto:shammas.khan90321@gmail.com">
     <img src="https://img.shields.io/badge/-shammaskhann@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/shammaskhan">
